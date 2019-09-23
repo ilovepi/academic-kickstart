@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-06-15"
   date_end = "2018-09-15"
-  description = """I worked on Fuchsia's Toolchain team developing compiler based tools to support Fuchsia's development.I designed and implemented syringe: an LLVM based framework for performing behavior injection for C/C++ programs. Our approach used function specialization to transparently introduce new behaviors to programs at runtime. This general framework allows programmers to dynamically change program behavior for complicated tasks, such as dynamic fault injection.
+  description = """I worked on Fuchsia's Toolchain team developing compiler based tools to support Fuchsia's under the guidance of my host Petr Hosek. I designed and implemented Syringe: an LLVM based framework for performing behavior injection for C/C++ programs. Our approach used function specialization to transparently introduce new behaviors to programs at runtime. This general framework allows programmers to dynamically change program behavior for complicated tasks, such as dynamic fault injection.
  """
 
 [[experience]]
