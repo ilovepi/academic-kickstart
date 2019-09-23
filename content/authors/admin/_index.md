@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Irvine
-  url: ""
+  url: "uci.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include system security, compilers, operating systems, and networking.
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-Paul Kirth is a PhD student researching system security at UC Irvine's Secure System Lab. His research interests include compiler based security, secure system design, operating systems, and networking. His research aspires to make complex security problems opaque to programmers through the use of compiler based tools.
+Paul Kirth is a PhD student researching system security under professor [Michael Franz](https://michaelfranz.com) as part of [UC Irvine's](https://uci.edu) [Secure System Lab](https://ssllab.org). His research interests include compiler based security, secure system design, operating systems, and networking. His research aspires to make complex security problems opaque to programmers through the use of compiler based tools.
 
 In a past life Paul worked as a Civil Engineer
 
